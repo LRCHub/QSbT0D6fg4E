@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "1991",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-03T06:30:16.186168Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Took All The Rambling Out Of Me - Remastered 12/1991",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/01_You_Took_All_The_Rambling_Out_Of_Me_-_Remastered_12_1991_Jerry_Reed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sound and Vision (David Richards 1991 Remix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/02_Sound_and_Vision_(David_Richards_1991_Remix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sound + Vision (David Richards Remix 1991)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/03_Sound_+_Vision_(David_Richards_Remix_1991)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forever Autumn - BBC Radio One Acoustic Session / 1991",
+      "artist": "The Moody Blues",
+      "has_synced": false,
+      "path": "select/04_Forever_Autumn_-_BBC_Radio_One_Acoustic_Session___1991_The_Moody_Blues.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dumb - 1991 Radio Appearance",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/05_Dumb_-_1991_Radio_Appearance_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Endless, Nameless - 1991 Radio Appearance",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/06_Endless,_Nameless_-_1991_Radio_Appearance_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All I Can Do Is Write About It (Acoustic Version) (1991 Box Set)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/07_All_I_Can_Do_Is_Write_About_It_(Acoustic_Version)_(1991_Box_Set)_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get Happy (1991 Remastered)",
+      "artist": "Benny Goodman and His Orchestra",
+      "has_synced": false,
+      "path": "select/08_Get_Happy_(1991_Remastered)_Benny_Goodman_and_His_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "1991",
+      "artist": "Azealia Banks",
+      "has_synced": true,
+      "path": "select/09_1991_Azealia_Banks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dreams - Live At Cork Rock, Ireland / 1991",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/10_Dreams_-_Live_At_Cork_Rock,_Ireland___1991_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dreams (Live at Cork Rock, June 1, 1991)",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/11_Dreams_(Live_at_Cork_Rock,_June_1,_1991)_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dreams (RTÉ Radio 1991)",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/12_Dreams_(RTÉ_Radio_1991)_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Put Me Down - Live At Cork Rock, Ireland / 1991",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/13_Put_Me_Down_-_Live_At_Cork_Rock,_Ireland___1991_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Put Me Down (Live at Cork Rock, June 1, 1991)",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/14_Put_Me_Down_(Live_at_Cork_Rock,_June_1,_1991)_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Uncertain - Live At Cork Rock, Ireland / 1991",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/15_Uncertain_-_Live_At_Cork_Rock,_Ireland___1991_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Uncertain (Live at Cork Rock, June 1, 1991)",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/16_Uncertain_(Live_at_Cork_Rock,_June_1,_1991)_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "(They Long To Be) Close To You (1991 Remix)",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/17_(They_Long_To_Be)_Close_To_You_(1991_Remix)_Carpenters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1991",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_1991_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "1991",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_1991_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "1991",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_1991_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "1991",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_1991_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "1991",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_1991_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "1991",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_06_1991_米津玄師.txt"
+    }
+  ]
+}
